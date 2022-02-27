@@ -1,3 +1,9 @@
+# EldenRingProgressTracker
+
+WIP Progress Tracker For Parsing Elden Ring Save and Seeing x% of objectives.
+
+Currently Waiting For save file (C:\Users\%USERNAME%\AppData\Roaming\EldenRing\%STEAMID3%\ER0000.sl2) to be decrypted in order to read what items are collected to create a tracker.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
